@@ -1,6 +1,6 @@
 <h1>ExpNo 2 : Implement Breadth First Search Traversal of a Graph</h1> 
-<h3>Name: Saravanan N</h3>
-<h3>Register Number/Staff Id: TSML006</h3>
+<h3>Name: Koduru Sanath Kumar Reddy</h3>
+<h3>Register Number: 212221240024</h3>
 <H3>Aim:</H3>
 <p>To Implement Breadth First Search Traversal of a Graph using Python 3.</p>
 <h3>Theory:</h3>
@@ -86,7 +86,6 @@ G F <BR>
 ['A', 'B', 'C', 'F', 'E', 'D', 'G']
 
 <hr>
-
 <hr>
 <h3>Sample Input</h3>
 <hr>
